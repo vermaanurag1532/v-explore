@@ -1,0 +1,12 @@
+.header{
+    padding: 5%;
+}
+
+.header_heading {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.header_body {
+    margin: 2.5% 5%;
+}

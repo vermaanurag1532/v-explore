@@ -1,0 +1,19 @@
+.about{
+    padding: 7%;
+}
+
+.about_heading{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.about_button{
+    position: absolute;
+    border-radius: 20px;
+    background-color: black;
+    color: #fff;
+    height: 40px;
+    width: 120px;
+    margin: 2%;
+    right: 15%;
+}

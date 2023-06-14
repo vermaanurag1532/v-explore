@@ -1,0 +1,19 @@
+.navbar{
+    background-color: black;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
+.navbar-brand{
+    position: absolute;
+    left: 5%;
+    color: #fff;
+    font-weight: 500;
+}
+
+.form-inline{
+    position: absolute;
+    right: 5%;
+}
